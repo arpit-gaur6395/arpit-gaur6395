@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi there, I'm Arpit Gaur 👋
+  # Hi there, I'm Arpit Gaur
   ### Full-Stack Developer & Computer Vision / AI Engineer
 
   <p align="center">
@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently Building**: **[DrowsiGuard AI](https://github.com/arpit-gaur6395/drowsiguard_ai)** — In-cabin automotive telematics and computer vision driver monitoring system with contactless rPPG cardiac vitals.
+Software Engineer specializing in scalable full-stack web applications, real-time telemetry systems, and physiological signal analysis. Experienced in designing resilient architectures using TypeScript, Next.js, Node.js, and Python, with an emphasis on low-latency data pipelines and digital health biometrics.
 - 💻 **Tech Stack**: Next.js 14, TypeScript, React 18, Node.js, Express, Socket.io, MediaPipe.
 - 🎯 **Areas of Interest**: Real-Time Computer Vision, Automotive Telematics (Euro NCAP DMS), Edge Biometrics, and Scalable Full-Stack Architecture.
 - ⚡ **Engineering Focus**: Detecting driver micro-sleep in under 500ms and computing contactless pulse/HRV through video pixel chrominance.
